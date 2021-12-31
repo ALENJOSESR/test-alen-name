@@ -14,5 +14,5 @@ Admin - inventry.csn - STOCKS
  // -- \\    ||        ||         ||  \ ||
 //      \\   ||______  ||------   ||   \||
 
-
+New Text added.
 
